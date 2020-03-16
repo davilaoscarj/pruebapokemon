@@ -1,0 +1,67 @@
+.d-block{
+    height: 70vh;
+}
+
+.botones{
+    display: flex;
+    justify-content: space-evenly;
+    height: 60px;
+    padding: 10px;
+    background-color: red;
+}
+
+.navbar{
+    background-color: red;
+}
+
+img{
+    width: 200px;
+}
+
+.btn-outline{
+    border-color: black;
+}
+
+.colorBoton{
+    background-color:blue;
+    border-radius: 6px;
+    color:white;
+}
+
+.letraBoton{
+    color:white;
+}
+
+.posicionCard{
+    display: flex;
+    width: 276px;
+    justify-content: space-around;
+    padding: 10px 0 10px 0 ;    
+}
+
+#todos{
+    display: flex;
+    justify-content: center;
+}
+
+.nombre{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.general{
+    display: flex;
+    justify-content: center;
+}
+
+.nompoke{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#nombrePokemon{
+    text-align: center;
+}
